@@ -1,0 +1,2 @@
+# Vendas-de-Carro
+Este projeto foi desenvolvido durante o curso "Machine Learning - Introdução a classificação com SKLearn",  da plataforma Alura. Foi utilizado o Google Colaboratory como ferramenta de desenvolvimento, na linguagem Python, onde foram utilizadas bibliotecas com Numpy, Pandas, Scikit-learn e para classificação dos dados, foi utilizado um algoritmo do LineaSVC. Os dados foram importados de um arquivo .csv cedido pelo instrutor do curso.
